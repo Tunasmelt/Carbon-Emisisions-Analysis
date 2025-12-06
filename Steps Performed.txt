@@ -1,9 +1,0 @@
-GitHub Link: https://github.com/alissadao/Carbon-Emission-Project-SQL-and-PowerBI-
-Downloaded Dataset from Kaggle
-Small Edits and Text Formatting in Excel After Reading through Data
-
-Created Schema in MySQL Workbench
-Imported csv files into respective tables using MySQL Workbench
-CO2 Emissions, Land, Threatened Species, Water Sanitation Services  
-
-Cleaned both data using NumPY and Pandas and exported both into csv files
