@@ -85,6 +85,11 @@ The cleaned datasets are ready for Power BI visualization, enabling:
 - Industry-wise carbon reduction potential
 - Interactive dashboards for stakeholder insights
 
+### Dashboard Preview
+![Carbon Emissions Dashboard](Dashboard_page-0001.jpg)
+
+*Interactive Power BI dashboard showing global carbon emissions analysis with time-series trends, country comparisons, and industry reduction potential.*
+
 ## 📝 Key Findings
 After Power BI analysis, the following key insights were derived:
 
